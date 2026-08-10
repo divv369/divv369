@@ -1,8 +1,10 @@
 <div align="center">
 
-⚡ DIVYANSH GUPTA
+<h1 align="center">⚡ 𝙳𝙸𝚅𝚈𝙰𝙽𝚂𝙷 𝙶𝚄𝙿𝚃𝙰</h1>
 
-CSE @ SLIET • Backend • AI/ML
+<h3 align="center">
+  ✦ 𝐂𝐒𝐄 @ 𝐒𝐋𝐈𝐄𝐓 &nbsp;•&nbsp; 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 &nbsp;•&nbsp; 𝐀𝐈/𝐌𝐋
+</h3>
 <p align="center">
   <img src="ChatGPT Image Aug 10, 2026, 07_24_49 PM.png" width="100%">
 </p>
@@ -19,13 +21,11 @@ CSE @ SLIET • Backend • AI/ML
 
 <div align="center">
 
-9.97 / 10  CGPA
-
-Computer Science Engineering
-
-70+  Educational Videos
-
-Content Creation & Video Editing
+<p align="center">
+  🎓 &nbsp; <b>𝟗.𝟗𝟕 / 𝟏𝟎</b> &nbsp;•&nbsp; <i>CGPA · CSE</i>
+  <br><br>
+  🎬 &nbsp; <b>𝟕𝟎+</b> &nbsp;•&nbsp; <i>Educational Videos Created & Edited</i>
+</p>
 
 </div>
 
