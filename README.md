@@ -25,6 +25,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,git,github,linux" />
 </p>
-<p align="center">
-  <img src="./divv369_code_to_face.gif" width="900">
-</p>
+ 
