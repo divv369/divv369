@@ -3,7 +3,7 @@
 <h1 align="center">⚡ 𝙳𝙸𝚅𝚈𝙰𝙽𝚂𝙷 𝙶𝚄𝙿𝚃𝙰</h1>
 
 <h3 align="center">
-  ✦ 𝐂𝐒𝐄 @ 𝐒𝐋𝐈𝐄𝐓 &nbsp;•&nbsp; 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 &nbsp;•&nbsp; 𝐀𝐈/𝐌𝐋
+  ✦ 𝐂𝐒𝐄 @ 𝐒𝐋𝐈𝐄𝐓 &nbsp;•&nbsp; 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 &nbsp;•&nbsp;
 </h3>
 <p align="center">
   <img src="ChatGPT Image Aug 10, 2026, 07_24_49 PM.png" width="100%">
