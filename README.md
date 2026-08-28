@@ -9,6 +9,11 @@
   <img src="ChatGPT Image Aug 10, 2026, 07_24_49 PM.png" width="100%">
 </p>
 
+<p align="center">
+  <img src="divyansh_work_collage_transition (1).gif" width="100%">
+</p>
+
+
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+with+code.;Learning+Backend+%7C+ML+%7C+AI.;Turning+ideas+into+projects." alt="Typing animation">
